@@ -93,9 +93,9 @@ h2 {
 }
 
 .salary-vacancies, .company {
-	display: flex;
+	/*display: flex;*/
 	margin-bottom: 5px;
-	flex-wrap: wrap;
+	/*flex-wrap: wrap;*/
 }
 .salary , .name-company {
 	margin-right: 5px;
